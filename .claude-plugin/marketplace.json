@@ -1,0 +1,6 @@
+{
+  "name": "keep-awake",
+  "owner": { "name": "Javier \"Ciberman\" Mora" },
+  "description": "The keep-awake mod for Claude Code.",
+  "plugins": [{ "name": "keep-awake", "source": "./" }]
+}

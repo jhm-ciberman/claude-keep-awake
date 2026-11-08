@@ -1,0 +1,7 @@
+{
+  "name": "keep-awake",
+  "version": "0.2.0",
+  "author": { "name": "Javier \"Ciberman\" Mora" },
+  "description": "Keeps Windows awake while Claude works: during turns, while Claude holds a lease for background work, or when you run /awake. Lets the screen turn off. Works from WSL too.",
+  "types": "./types/index.d.ts"
+}
